@@ -1,0 +1,79 @@
+.login-page {
+    background-color: black;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+ }
+ .design{
+    color:white;
+}
+ .heading{
+    display: inline;
+    font-size: 37px;
+    width: 350px;
+    font-family: sans-serif;
+ }
+ .lebel{
+    display: flex;
+    position: absolute;
+    width: 350px;
+    flex-direction: column;
+    
+   }
+ .lebel1{
+    display: flex;
+    color: greenyellow;
+    width: 350px;
+    flex-direction: column;
+    align-items: flex-end;
+ }
+ .input1{
+    display: grid;
+    height: 30px;
+    width: 350px;
+    font-size: 16px;
+    text-decoration-color:white;
+    font-family: sans-serif;
+    border: 0 white solid;
+    border-radius: 5px;
+ }
+ .input2{
+    display: grid;
+    height: 30px;
+    width: 350px;
+    font-size: 16px;
+    text-decoration-color:white;
+    font-family: sans-serif;
+    border: 0 white solid;
+    border-radius: 5px;
+ }
+ .sign-in{
+    display: inline-block;
+    height: 35px;
+    width: 350px;
+    font-size: 18px;
+    background-color: greenyellow;
+    border: 0 white solid;
+    border-radius: 15px;
+    text-align: center;
+ }
+ .p{
+    display: flex;
+    position: absolute;
+    width: 350px;
+    font-size: 15px;
+    font-family: sans-serif;
+    align-items: flex-start;
+    flex-direction: column;
+ }
+ .p1{
+    display: flex;
+    color: greenyellow;
+    width: 350px;
+    font-size: 15px;
+    font-family: sans-serif;
+    flex-direction: column;
+    align-items:flex-end;
+ }
